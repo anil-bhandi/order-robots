@@ -1,0 +1,6 @@
+{
+    "locators": {
+        "body": "//input[@name='body' and @value='1']",
+        "leg": "//input[@type='number' and contains(@placeholder, 'for the legs')]"
+    }
+}
